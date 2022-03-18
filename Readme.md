@@ -1,2 +1,2 @@
-#just figuring out what GIT is.
+# just figuring out what GIT is.
 hello
